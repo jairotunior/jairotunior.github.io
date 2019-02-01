@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I´m industrial engineer and a pasioner of computer sciences specially Machine Learning and Deep Learning.
+I´m Industrial Engineer and Game Developer. I'm a pasioner of computer sciences specially Machine Learning and Deep Learning. In the last time, i am focus in the Web Developer and Reinforcement Learning.
 
 ### More Information
 
